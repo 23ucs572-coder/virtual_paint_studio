@@ -115,4 +115,6 @@ Before running the project, ensure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/goyalsgit/virtual_paint_v2.git
+git clone https://github.com/23ucs572-coder/virtual_paint_studio.git
+
+
